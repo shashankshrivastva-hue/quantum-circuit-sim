@@ -10,3 +10,4 @@ All notable changes documented here.
 - **2026-02-05**: style: clean up complex number formatting in state vector printouts
 - **2026-02-08**: refactor: separate measurement sampling logic from state simulation
 - **2026-02-08**: refactor: separate measurement sampling logic from state simulation
+- **2026-02-10**: perf: optimize Kronecker product tensor contractions with NumPy
