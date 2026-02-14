@@ -13,3 +13,4 @@ All notable changes documented here.
 - **2026-02-10**: perf: optimize Kronecker product tensor contractions with NumPy
 - **2026-02-12**: test: verify unitarity for all single and two-qubit gate matrices
 - **2026-02-14**: test: verify unitarity for all single and two-qubit gate matrices
+- **2026-02-14**: fix: handle zero-probability state outcomes in Monte Carlo sampler
