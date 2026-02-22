@@ -16,3 +16,4 @@ All notable changes documented here.
 - **2026-02-14**: fix: handle zero-probability state outcomes in Monte Carlo sampler
 - **2026-02-17**: docs: add mathematical derivation for Bell state entanglement
 - **2026-02-21**: test: verify unitarity for all single and two-qubit gate matrices
+- **2026-02-23**: perf: optimize Kronecker product tensor contractions with NumPy
