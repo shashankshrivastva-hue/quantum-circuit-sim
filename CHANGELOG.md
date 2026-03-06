@@ -19,3 +19,4 @@ All notable changes documented here.
 - **2026-02-23**: perf: optimize Kronecker product tensor contractions with NumPy
 - **2026-02-27**: docs: add mathematical derivation for Bell state entanglement
 - **2026-03-03**: feat: implement Deutsch-Jozsa quantum algorithm circuit example
+- **2026-03-06**: fix: handle zero-probability state outcomes in Monte Carlo sampler
