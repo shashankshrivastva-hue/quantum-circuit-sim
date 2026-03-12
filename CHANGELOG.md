@@ -21,3 +21,4 @@ All notable changes documented here.
 - **2026-03-03**: feat: implement Deutsch-Jozsa quantum algorithm circuit example
 - **2026-03-06**: fix: handle zero-probability state outcomes in Monte Carlo sampler
 - **2026-03-09**: fix: handle zero-probability state outcomes in Monte Carlo sampler
+- **2026-03-12**: feat: add phase gate and Toffoli gate compiler decompositions
