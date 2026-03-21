@@ -24,3 +24,4 @@ All notable changes documented here.
 - **2026-03-12**: feat: add phase gate and Toffoli gate compiler decompositions
 - **2026-03-16**: refactor: separate measurement sampling logic from state simulation
 - **2026-03-18**: test: verify unitarity for all single and two-qubit gate matrices
+- **2026-03-21**: refactor: separate measurement sampling logic from state simulation
