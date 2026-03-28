@@ -26,3 +26,4 @@ All notable changes documented here.
 - **2026-03-18**: test: verify unitarity for all single and two-qubit gate matrices
 - **2026-03-21**: refactor: separate measurement sampling logic from state simulation
 - **2026-03-24**: style: clean up complex number formatting in state vector printouts
+- **2026-03-29**: refactor: separate measurement sampling logic from state simulation
