@@ -33,3 +33,4 @@ All notable changes documented here.
 - **2026-04-03**: test: verify unitarity for all single and two-qubit gate matrices
 - **2026-04-05**: perf: optimize Kronecker product tensor contractions with NumPy
 - **2026-04-07**: docs: add mathematical derivation for Bell state entanglement
+- **2026-04-08**: style: clean up complex number formatting in state vector printouts
