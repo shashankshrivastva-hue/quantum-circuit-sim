@@ -35,3 +35,4 @@ All notable changes documented here.
 - **2026-04-07**: docs: add mathematical derivation for Bell state entanglement
 - **2026-04-08**: style: clean up complex number formatting in state vector printouts
 - **2026-04-10**: feat: add phase gate and Toffoli gate compiler decompositions
+- **2026-04-14**: fix: handle zero-probability state outcomes in Monte Carlo sampler
