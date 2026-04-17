@@ -37,3 +37,4 @@ All notable changes documented here.
 - **2026-04-10**: feat: add phase gate and Toffoli gate compiler decompositions
 - **2026-04-14**: fix: handle zero-probability state outcomes in Monte Carlo sampler
 - **2026-04-17**: feat: add phase gate and Toffoli gate compiler decompositions
+- **2026-04-17**: feat: add phase gate and Toffoli gate compiler decompositions
